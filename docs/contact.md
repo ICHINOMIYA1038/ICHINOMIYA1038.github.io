@@ -1,3 +1,5 @@
-layout: page
-title: "Contact"
-permalink: /about/contact
+## help me
+
+# this is my web page
+
+3x + 4 =12
